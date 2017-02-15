@@ -8,9 +8,9 @@ public class Reservation {
     private int seatNumber;
     private Show show;
 
-    String toString() {
+    /* String toString() {
         return "Reservation info:\nSeat number: " + seatNumber
-                + "\nHall: " + show.getHall()
+               + "\nHall: " + show.getHall()
                 + "\nFilm: " + show.getFilm();
-    }
+    } */
 }
